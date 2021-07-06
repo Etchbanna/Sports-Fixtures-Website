@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Matches>
+  <Match>
+    <Home> Uruguay </Home>
+    <Away> Spain </Away>
+    <Time> 22 - 5 - 2021 </Time>
+    <HomeImg> uruguay.png </HomeImg>
+    <AwayImg> spain.png </AwayImg>
+    <HomeScore> 2 </HomeScore>
+    <AwayScore> 1 </AwayScore>
+  </Match>
+  <Match>
+    <Home> Brazil </Home>
+    <Away> Italy </Away>
+    <Time> 4 - 5 - 2021 </Time>
+    <HomeImg> brazil.png </HomeImg>
+    <AwayImg> italy.png </AwayImg>
+    <HomeScore> 4 </HomeScore>
+    <AwayScore> 2 </AwayScore>
+  </Match>
+  <Match>
+    <Home> Milwaukee Bucks </Home>
+    <Away> New York Knicks </Away>
+    <Time> 27 - 4 - 2021 </Time>
+    <HomeImg> bucks.png </HomeImg>
+    <AwayImg> knicks.png </AwayImg>
+    <HomeScore> 78 </HomeScore>
+    <AwayScore> 92 </AwayScore>
+  </Match>
+</Matches>

@@ -1,0 +1,44 @@
+body{
+  background-color: #f6f7e0;
+}
+
+
+}
+
+form{
+  position: relative;
+
+}
+input{
+  position: relative;
+  border-radius: 25px;
+  margin-bottom: 50px;
+  left: 600px;
+  top: 200px;
+}
+label{
+  position: relative;
+  left: 550px;
+  top: 200px;
+
+}
+button{
+  position: relative;
+  width: 100px;
+  height: 100px;
+  left: 900px;
+  top: 0px;
+}
+select{
+  position: relative;
+  left: 600px;
+  top: 200px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  opacity: 50%;
+}

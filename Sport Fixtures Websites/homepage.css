@@ -1,0 +1,103 @@
+body{
+  background-color: #f6f7e0;
+}
+div.HeaderMenu{
+  height: 80px;
+  width: 100%;
+  background-color: #fbf094;
+  text-align:center;
+  font-size: 20px;
+  font-weight: bold;
+  font-family:serif;
+  border-radius: 25px;
+}
+div.Menu{
+  position: relative;
+  left: 400px;
+  top: -10px;
+  display: flex;
+  column-gap: 130px;
+}
+
+
+div.MainBody{
+  background-color: #ebe9d7;
+  position:absolute;
+  left: 350px;
+  height: 100%;
+  width: 100%;
+}
+div.MainBody span{
+  position:relative;
+  font-size: 20px;
+}
+div.MainBody img{
+  width: 50px;
+  height: 30px;
+}
+div.MainBody div{
+  position: relative;
+  top: 25%;
+  left: 25%;
+}
+
+div.fixtures{
+  position: absolute;
+  left: 25%;
+  top: 25%;
+  margin-bottom: 50px;
+  height: 100px;
+  width: 550px;
+}
+div.fixtures  div.matchdata{
+  margin-top: 0px;
+  position: relative;
+  background-color: white;
+  left: -200px;
+  height: 60px;
+  width: 700px;
+  text-align: center;
+  transition: all 1s;
+
+}
+
+div.LeftPane{
+  background-color: white;
+  height: 800px;
+  width: 300px;
+  position: relative;
+  left: 20px;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 24px;
+  border-radius: 25px;
+  margin-top: 20px;
+
+}
+div.LeftPane a{
+  margin-bottom: 70px;
+}
+
+
+#remaintime{
+  position: relative;
+  left: -10px;
+  font-size: 14px;
+
+}
+form{
+  position: relative;
+  left: 450px;
+  top: 80px;
+}
+input{
+  border-radius: 25px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  opacity: 50%;
+}
